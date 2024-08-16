@@ -1,2 +1,5 @@
 # ping_pong_game
-Ping pong game using python . This project uses only turtle module from python . 
+Ping pong game using python . 
+This project uses only turtle module from python . 
+
+Hope helpful
